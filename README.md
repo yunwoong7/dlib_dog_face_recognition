@@ -1,3 +1,7 @@
+---
+
+---
+
 <h2 align="center">
   dlib dog face recognition
 </h2>
@@ -280,7 +284,7 @@ name_labeling(test_image)
 최근 동물 얼굴 인식에 대해 관심이 많아지고 있는 것 같습니다. 생각보다 사람 얼굴 인식에 비해 동물 얼굴 인식 연구는 많지 않았던 것 같습니다. [2020년 11월 22일 CNN](https://edition.cnn.com/2020/11/22/tech/face-recognition-bears-cows/index.html)[ 보도](https://edition.cnn.com/2020/11/22/tech/face-recognition-bears-cows/index.html)에 따르면 캐나다의 곰 전문 생물학자인 멜라니 클래펌이 실리콘밸리 출신의 기술자들과 함께 곰의 얼굴을 인식하는 소프트웨어를 개발했다고 소개하고 있네요.
 
 <div align="center">
-  <img src="https://blog.kakaocdn.net/dn/cHiBTG/btrrpUAUmqY/AX5yTkHxmxSZCpZYyRPmoK/img.gif" width="70%">
+  <img src="/asset/images/img.gif" width="70%">
 </div>
 
 야생동물을 모니터링하기 위해 동물의 피부에 칩을 이식하는데, 이는 소프트웨어를 활용하는 것보다 비용이 비싸고 수명은 짧다는 단점이 있다고 합니다. 동물을 추척하는데 활용 할 수 있고 이를 데이타화하여 특징을 파악하고 연구하는데에도 활용 할 수 있다고 합니다. 현재 동물에게 얼굴인식 소프트웨어를 적용시키기 위한 연구는 세계 곳곳에서 시도되고 있으니 관심을 두고 연구해 볼만한 일인 것 같습니다.
